@@ -39,7 +39,7 @@ The table contains:
 * Uses `colspan` to merge table columns
 
 ## Project Screenshot
-[Student Record table screenshot](record_html.png)
+![Student Record table screenshot](record_html.png)
 
 ## Sample Data
 
